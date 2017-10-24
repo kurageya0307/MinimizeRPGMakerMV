@@ -20,7 +20,7 @@ RPGツクールMVにて「ファイル→プロジェクトの新規作成」を
 
 # 使い方
 ## 最小化の方法
-1.　CドライブのRPGツクールMVのフォルダ直下に本ファイルを置いてください。
+1.　CドライブのRPGツクールMVのフォルダ直下に[MinimizeRPGMakerMV.bat](https://github.com/kurageya0307/MinimizeRPGMakerMV/blob/master/MinimizeRPGMakerMV.bat)を置いてください。
 （フォルダの例，C:\Program Files (x86)\KADOKAWA\RPGMV）
 
 __2.　【重要】フォルダ「NewData」をバックアップしてください。__
