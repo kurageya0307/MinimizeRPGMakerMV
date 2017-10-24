@@ -41,5 +41,5 @@ __2.　【重要】フォルダ「NewData」をバックアップしてくださ
 「NewData_Backup」のフォルダから「NewData」へデータを元に戻します。
 
 # 謝辞
-KADOKAWA\RPGMV\NewData以下のデータがコピー元であることをツイッター上でP&M Entertainment様に教えていただきました。
+KADOKAWA\RPGMV\NewData以下のデータがコピー元であることをツイッター上で[P&M Entertainment様](https://twitter.com/PandM_Entertm)に教えていただきました。
 ありがとうございました。
